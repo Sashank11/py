@@ -1,0 +1,13 @@
+
+
+
+Sashank Rijal- 0036-211007-76029U
+
+Sunita rijal- 0036-211007-78165N
+
+Sudeep Rijal -2021PM20 24HRFS100721A1 UDEAFFPYTHON0921
+
+sudo apt install build-essential dkms linux-headers-$(uname -r)
+
+
+Sir, I would like to get a letter(with my photo on it) proving that I am a student residing at VIT. 
